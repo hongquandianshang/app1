@@ -1,0 +1,17 @@
+文件名            x           y            w               h                on
+button－left       58         766          240              70            background
+button－right     350         764          240              73            background
+pic              70         270          506             358            box－big
+box－small       470         636          120              108           background        
+box－red         60         636          436              108           box－small
+icon－book       78         182          24                34           box－big
+title－activity     114         188          104               30           box－big
+txt－activity       74         222          498                34          box－big
+icon－sale        78         656          26                 32          box－red        
+txt－sale         78          690          384               44           box－red          
+icon－restaurant   86          546         82                44            pic
+icon－drink       478         546         82                44            pic
+number          126         548         38                36           icon－restaurant 
+box－big         56          160         538               468           background
+content－right     614         156         28                676           background
+content－left       0          156         30                680           background
